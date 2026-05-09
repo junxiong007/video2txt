@@ -1,5 +1,6 @@
 # video2txt
 把语音视频文件或者网络链接转换成字幕，分不同角色
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/278de0a6-e3bd-48f2-ace6-323b8cfc7574" />
 
 
 启动方式

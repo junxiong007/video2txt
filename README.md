@@ -37,3 +37,7 @@ venv\Scripts\activate python main.py
 处理流程
 
 音频/视频 → 提取16kHz WAV → VAD语音检测 → 更快的耳语解析 → pyannote说话人分离 → 时间对齐 → DeepSeek LLM智能标注(男一/女二) → 导出SRT/VTT/TXT
+
+
+
+【后续可以自行添加 翻译功能。去年年初已经实现，项目代码不知放哪了。有兴趣可以自行vibe coding。】

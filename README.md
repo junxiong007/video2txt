@@ -5,12 +5,22 @@
 启动方式
 
 方式一：双击run.bat
+
+
 方式二：命令行
 
 python -m venv venv
+
+
 venv\Scripts\activate
+
+
 pip install -r requirements.txt  #安装依赖包List
+
+
 venv\Scripts\activate python main.py
+
+
 
 需要手动做这件事
 
